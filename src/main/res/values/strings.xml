@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework3.1</string>
+    <string name="pause_activity" />
+    <string name="resume_activity" />
+</resources>
